@@ -8,7 +8,7 @@
 <link rel="stylesheet" type="text/css" href="style.css"/>
 </head>
 <body>
-<p class=banner>Calculators</p>
+<p class=banner>Akanksha Calculators</p>
 <button class="tablink" onclick="openPage('SimpleCalculator', this, '#ff8080')" >Simple Calculator</button>
 <button class="tablink" onclick="openPage('AgeCalculator', this, '#ff8080')" >Age Calculator</button>
 <button class="tablink" onclick="openPage('EMICalculator', this, '#ff8080')" id="defaultOpen">EMI Calculator</button>
